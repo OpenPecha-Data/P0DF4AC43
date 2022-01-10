@@ -1,0 +1,95 @@
+id: 8e39ddba30624014a4056becb60c95e5
+annotation_type: index
+revision: '00001'
+annotations:
+  076eb02ac02543f29eddd0920578084b:
+    work_id: JCN1
+    parts:
+      3458bcfd422e4a6c997a2cba4c275dd0:
+        work_id: JCN1-1
+        span:
+        - vol: 1
+          start: 0
+          end: 30884
+    span:
+    - vol: 1
+      start: 0
+      end: 30884
+  50d97461659e4999af2f5f193e46a9f2:
+    work_id: JCN4
+    parts:
+      2aa965ed2599458687aa7b5621982089:
+        work_id: JCN4-2
+        span:
+        - vol: 2
+          start: 0
+          end: 615331
+    span:
+    - vol: 2
+      start: 0
+      end: 615331
+  ce494b77ef0a4b0c9f310c6cbf9cf6e8:
+    work_id: JCN5
+    parts:
+      b1aa622c536f463cb7fd7547783f6888:
+        work_id: JCN5-3
+        span:
+        - vol: 3
+          start: 0
+          end: 397138
+    span:
+    - vol: 3
+      start: 0
+      end: 397138
+  7b8d3c717ed741099f97a53da2a17fbf:
+    work_id: JCN7
+    parts:
+      cd370045a37d455698bcdbb727c1be9d:
+        work_id: JCN7-4
+        span:
+        - vol: 4
+          start: 0
+          end: 268048
+    span:
+    - vol: 4
+      start: 0
+      end: 268048
+  0c1e5bb4ac084a758c50e3ae3bbedb56:
+    work_id: JCN9
+    parts:
+      1dea6349b1be42b9853f94ec808cbf26:
+        work_id: JCN9-5
+        span:
+        - vol: 5
+          start: 0
+          end: 101445
+    span:
+    - vol: 5
+      start: 0
+      end: 101445
+  d50e7a5a75f74bdf81f181e869e35cac:
+    work_id: JCN20
+    parts:
+      f6f66eeb0437487ba3aabe3afc82a5d4:
+        work_id: JCN20-6
+        span:
+        - vol: 6
+          start: 0
+          end: 346268
+    span:
+    - vol: 6
+      start: 0
+      end: 346268
+  a4d40bea5f1c4613ac4e71bb0c3e5c9d:
+    work_id: JCN26
+    parts:
+      0f043565939c4cdab269d5a506b2ce39:
+        work_id: JCN26-7
+        span:
+        - vol: 7
+          start: 0
+          end: 323538
+    span:
+    - vol: 7
+      start: 0
+      end: 323538
